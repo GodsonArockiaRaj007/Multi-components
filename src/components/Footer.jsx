@@ -16,10 +16,10 @@ const Logos=()=>{
     return(
         <>
         <div className=" flex gap-10 mt-10 justify-center">
-            <img className="w-10 h-10 rounded-4xl hover:scale-110" src="../../public/facebook.png" alt="" />
-            <img className="w-10 h-10 rounded-4xl hover:scale-110" src="../../public/insta.jpg" alt="" />
-            <img className="w-10 h-10 rounded-4xl hover:scale-110" src="../../public/X.jpg" alt="" />
-            <img className="w-10 h-10 rounded-4xl hover:scale-110" src="../../public/Linkkedin.png" alt="" />
+            <img className="w-10 h-10 rounded-4xl hover:scale-110" src="./facebook.png" alt="" />
+            <img className="w-10 h-10 rounded-4xl hover:scale-110" src="./insta.jpg" alt="" />
+            <img className="w-10 h-10 rounded-4xl hover:scale-110" src="./X.jpg" alt="" />
+            <img className="w-10 h-10 rounded-4xl hover:scale-110" src="./Linkkedin.png" alt="" />
         </div>
         </>
     )
