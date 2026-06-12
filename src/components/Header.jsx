@@ -18,7 +18,7 @@ const Logo=()=>{
     return(
         <>
         <div>
-            <img className="w-10 h-10 ml-5 " src="../../public/logo.jpg" alt="" />            
+            <img className="w-10 h-10 ml-5 " src="./logo.jpg" alt="" />            
         </div>
         </>
     )
